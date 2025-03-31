@@ -9,10 +9,14 @@ Scraper: Python
 
 Baza danych: MySQL
 
-🔧 Funkcje
+🔧 Funkcje:
+
 ✅ Pobieranie danych giełdowych za pomocą scrapera
+
 ✅ Wizualizacja portfela akcji w przystępnym UI
+
 ✅ Przechowywanie historii transakcji w bazie MySQL
+
 ✅ Backend obsługujący żądania API
 
 ![ss1](https://github.com/user-attachments/assets/4715b475-ae68-497d-8151-04048ef6a6c7)
