@@ -1,6 +1,6 @@
-Stock Portfolio Tracker to aplikacja webowa do monitorowania akcji giełdowych. Umożliwia śledzenie zmian cen w czasie rzeczywistym.
+# Stock Portfolio Tracker to aplikacja webowa do monitorowania akcji giełdowych. Umożliwia śledzenie zmian cen w czasie rzeczywistym.
 
-✨ Technologie
+## ✨ Technologie
 Frontend: HTML, React.js
 
 Backend: Python (Flask)
@@ -9,7 +9,7 @@ Scraper: Python
 
 Baza danych: MySQL
 
-🔧 Funkcje:
+## 🔧 Funkcje:
 
 ✅ Pobieranie danych giełdowych za pomocą scrapera
 
